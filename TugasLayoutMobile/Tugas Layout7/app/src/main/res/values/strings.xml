@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">scroll_view_horizontal</string>
+    <string name="button_one">Button_One</string>
+    <string name="button_two">two</string>
+    <string name="button_three">three</string>
+    <string name="button_four">four</string>
+    <string name="button_five">five</string>
+    <string name="button_six">six</string>
+    <string name="button_seven">seven</string>
+    <string name="button_eight">eight</string>
+    <string name="button_nine">nine</string>
+    <string name="one">One</string>
+</resources>

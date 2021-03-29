@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="done">done</string>
+    <string name="reminder">reminder</string>
+    <string name="reminder_name">reminder_name</string>
+
+    <string-array name="date_adapter">
+        <item>Wed, June 27 2012</item>
+    </string-array>
+
+    <string-array name="clock_adapter">
+        <item>8:00 AM</item>
+    </string-array>
+</resources>

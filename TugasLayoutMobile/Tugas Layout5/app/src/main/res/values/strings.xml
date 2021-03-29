@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TombolLayout</string>
+    <string name="submit">sumbit</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="masukkan_username">masukan username</string>
+    <string name="password_input">password_input</string>
+    <string name="masukkan_password">masukan_password</string>
+</resources>
