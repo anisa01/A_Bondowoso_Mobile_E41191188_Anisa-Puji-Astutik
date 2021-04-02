@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerListView</string>
+
+    <string-array name="country_list">
+        <item>indonesia</item>
+        <item>cina</item>
+        <item>amerika</item>
+        <item>singapura</item>
+        <item>korea</item>
+        <item>jepang</item>
+        <item>malaysia</item>
+        <item>india</item>
+        <item>thailan</item>
+    </string-array>
+</resources>
